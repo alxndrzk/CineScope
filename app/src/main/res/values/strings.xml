@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFavMovies</string>
+    <string name="home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="emptyfavorite">Tidak ada list favorite.</string>
+    <string name="search_text">Masukan film yang ingin dicari</string>
+    <string name="kembali">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="deletefavorite">Remove from Favorite</string>
+    <string name="addfavorite">Add to Favorite</string>
+    <string name="datakosong">Data Kosong</string>
+    <string name="profile_email">aleand1605@gmail.com</string>
+    <string name="profile_name">Alexander Dwi Putra Gultom</string>
+</resources>
